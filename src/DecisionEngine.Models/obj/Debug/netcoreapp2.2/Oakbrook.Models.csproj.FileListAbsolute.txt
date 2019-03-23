@@ -1,0 +1,8 @@
+C:\Users\Damon\source\repos\Oakbrook\src\Oakbrook.Models\bin\Debug\netcoreapp2.2\Oakbrook.Models.deps.json
+C:\Users\Damon\source\repos\Oakbrook\src\Oakbrook.Models\bin\Debug\netcoreapp2.2\Oakbrook.Models.dll
+C:\Users\Damon\source\repos\Oakbrook\src\Oakbrook.Models\bin\Debug\netcoreapp2.2\Oakbrook.Models.pdb
+C:\Users\Damon\source\repos\Oakbrook\src\Oakbrook.Models\obj\Debug\netcoreapp2.2\Oakbrook.Models.csproj.CoreCompileInputs.cache
+C:\Users\Damon\source\repos\Oakbrook\src\Oakbrook.Models\obj\Debug\netcoreapp2.2\Oakbrook.Models.AssemblyInfoInputs.cache
+C:\Users\Damon\source\repos\Oakbrook\src\Oakbrook.Models\obj\Debug\netcoreapp2.2\Oakbrook.Models.AssemblyInfo.cs
+C:\Users\Damon\source\repos\Oakbrook\src\Oakbrook.Models\obj\Debug\netcoreapp2.2\Oakbrook.Models.dll
+C:\Users\Damon\source\repos\Oakbrook\src\Oakbrook.Models\obj\Debug\netcoreapp2.2\Oakbrook.Models.pdb

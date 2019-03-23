@@ -1,0 +1,12 @@
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Repositories.Interfaces\bin\Debug\netcoreapp2.2\DecisionEngine.Repositories.Interfaces.deps.json
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Repositories.Interfaces\bin\Debug\netcoreapp2.2\DecisionEngine.Repositories.Interfaces.dll
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Repositories.Interfaces\bin\Debug\netcoreapp2.2\DecisionEngine.Repositories.Interfaces.pdb
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Repositories.Interfaces\bin\Debug\netcoreapp2.2\DecisionEngine.Models.dll
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Repositories.Interfaces\bin\Debug\netcoreapp2.2\DecisionEngine.Models.pdb
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Repositories.Interfaces\obj\Debug\netcoreapp2.2\DecisionEngine.Repositories.Interfaces.csprojAssemblyReference.cache
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Repositories.Interfaces\obj\Debug\netcoreapp2.2\DecisionEngine.Repositories.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Repositories.Interfaces\obj\Debug\netcoreapp2.2\DecisionEngine.Repositories.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Repositories.Interfaces\obj\Debug\netcoreapp2.2\DecisionEngine.Repositories.Interfaces.AssemblyInfo.cs
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Repositories.Interfaces\obj\Debug\netcoreapp2.2\DecisionEngine.Repositories.Interfaces.csproj.CopyComplete
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Repositories.Interfaces\obj\Debug\netcoreapp2.2\DecisionEngine.Repositories.Interfaces.dll
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Repositories.Interfaces\obj\Debug\netcoreapp2.2\DecisionEngine.Repositories.Interfaces.pdb

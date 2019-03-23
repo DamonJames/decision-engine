@@ -1,0 +1,9 @@
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Models\bin\Debug\netcoreapp2.2\DecisionEngine.Models.deps.json
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Models\bin\Debug\netcoreapp2.2\DecisionEngine.Models.dll
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Models\bin\Debug\netcoreapp2.2\DecisionEngine.Models.pdb
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Models\obj\Debug\netcoreapp2.2\DecisionEngine.Models.csprojAssemblyReference.cache
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Models\obj\Debug\netcoreapp2.2\DecisionEngine.Models.csproj.CoreCompileInputs.cache
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Models\obj\Debug\netcoreapp2.2\DecisionEngine.Models.AssemblyInfoInputs.cache
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Models\obj\Debug\netcoreapp2.2\DecisionEngine.Models.AssemblyInfo.cs
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Models\obj\Debug\netcoreapp2.2\DecisionEngine.Models.dll
+C:\Users\Damon\source\repos\decision-engine\src\DecisionEngine.Models\obj\Debug\netcoreapp2.2\DecisionEngine.Models.pdb

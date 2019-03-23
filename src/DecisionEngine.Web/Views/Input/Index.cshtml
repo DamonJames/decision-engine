@@ -1,0 +1,35 @@
+﻿
+<link rel="stylesheet" href="~/css/site.css" />
+
+<div class="container">
+    <div class="row">
+        <p>Submit your details below for review:</p>
+    </div>
+    <div class="row">
+        <label>First Name:</label>
+        <input type="text" id="first-name" required />
+        <p id="first-name-validation"></p>
+    </div>
+    <div class="row">
+        <label>Last Name:</label>
+        <input type="text" id="last-name" required />
+        <p id="last-name-validation"></p>
+    </div>
+    <div class="row">
+        <label>DOB:</label>
+        <input type="date" id="dob" required />
+        <p id="dob-validation"></p>
+    </div>
+    <div class="row">
+        <input type="button" id="submit" value="Submit"/>
+    </div>
+    <div class="row">
+        <label>Status:</label>
+        <div id="status"></div>
+    </div>
+    <div class="row">
+        <p id="status-text">Not yet submitted</p>
+    </div>
+</div>
+
+<script src="~/js/site.js"></script>
